@@ -1,1 +1,1 @@
-"# searchapp" 
+The main goal of this solution is to perform search query on mobile database. The application will help the user to retrieve mobile handsets information based on search criteria. Criteria can be any field in the handset data along with any value. 
